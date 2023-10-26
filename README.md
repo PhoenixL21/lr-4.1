@@ -39,6 +39,9 @@
 ## Задание 1
 ### В проекте Unity реализовать перцептрон, который умеет производить вычисления: or, and, nand, xor.
 ## ОR
+![image](https://user-images.githubusercontent.com/113620568/202668438-a72865f8-d7e4-4be3-8e1a-2666fb5f2de9.png)
+![image](https://user-images.githubusercontent.com/113620568/202668653-4f57311c-e8ba-4842-bd0a-52b5ce737d56.png)
+Скорость обучения перцептрона на Unity высока, за 4 эпохи он научиося выполнять без ошибок операцию OR
 ## AND
 ## NAND
 ## XOR
