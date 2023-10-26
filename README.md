@@ -56,10 +56,13 @@
 ## Задание 2
 ### Построить графики зависимости количества эпох от ошибки обучения. Указать от чего зависит необходимое количество эпох обучения.
 ## ОR
+![image](https://user-images.githubusercontent.com/113620568/202672175-a22aa880-1f06-4508-914d-79786d756bf5.png
 ## AND
+![image](https://user-images.githubusercontent.com/113620568/202672311-cc2c239c-b634-43d5-931a-b5d56d5a0517.png)
 ## NAND
+![image](https://user-images.githubusercontent.com/113620568/202672450-1edb00b9-d740-4592-a35c-c61202675a59.png)
 ## XOR
-
+![image](https://user-images.githubusercontent.com/113620568/202672586-a64ab33e-cf62-4f90-aa4b-fd5496026c4b.png)
 ## Выводы
 
 
