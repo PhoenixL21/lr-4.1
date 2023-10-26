@@ -63,6 +63,10 @@
 ![image](https://user-images.githubusercontent.com/113620568/202672450-1edb00b9-d740-4592-a35c-c61202675a59.png)
 ## XOR
 ![image](https://user-images.githubusercontent.com/113620568/202672586-a64ab33e-cf62-4f90-aa4b-fd5496026c4b.png)
+## Количество эпох обучения зависит от:
+## -Количества вводных данных
+## -Шага обучения
+## -Увеличения ошибки обобщения
 ## Выводы
 
 
